@@ -8,5 +8,5 @@
 
 #### python3 [ server.py | client.py ] -ht 127.0.0.1 -p 5000
 
-* -ht : Host to Create
+* -ht : Host to Create or Connect to
 * -p : Port to bind
