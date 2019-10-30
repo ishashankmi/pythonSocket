@@ -35,7 +35,6 @@ def send():
 				sleep(0.100);
 				data.send(enco);
 	sock.close();
-
 def recv():
 	while True:
 		val=data.recv(40).decode();
