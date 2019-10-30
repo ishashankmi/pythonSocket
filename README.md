@@ -6,7 +6,7 @@
 
 ## Usage:
 
-#### python3 server.py -ht 127.0.0.1 -p 5000
+#### python3 [ server.py | client.py ] -ht 127.0.0.1 -p 5000
 
 * -ht : Host to Create
 * -p : Port to bind
