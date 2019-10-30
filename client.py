@@ -3,6 +3,7 @@ import socket;
 from time import sleep;
 import argparse;
 global sock;
+
 def args():
 	mx=argparse.ArgumentParser();
 	mx.add_argument("-ht","--host",help="Host To Connect");
